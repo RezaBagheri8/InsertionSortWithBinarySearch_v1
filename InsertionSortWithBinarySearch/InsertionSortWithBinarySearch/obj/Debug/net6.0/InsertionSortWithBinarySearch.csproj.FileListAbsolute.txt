@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\InsertionSortWithBinarySearch.exe
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\InsertionSortWithBinarySearch.deps.json
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\InsertionSortWithBinarySearch.runtimeconfig.json
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\InsertionSortWithBinarySearch.dll
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\ref\InsertionSortWithBinarySearch.dll
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\bin\Debug\net6.0\InsertionSortWithBinarySearch.pdb
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.AssemblyInfo.cs
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.dll
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\ref\InsertionSortWithBinarySearch.dll
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.pdb
+D:\kia prjc\tamrin\InsertionSortWithBinarySearch\InsertionSortWithBinarySearch\obj\Debug\net6.0\InsertionSortWithBinarySearch.genruntimeconfig.cache

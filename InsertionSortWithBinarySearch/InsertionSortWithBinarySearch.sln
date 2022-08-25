@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortWithBinarySearch", "InsertionSortWithBinarySearch\InsertionSortWithBinarySearch.csproj", "{857E7E7E-2042-46EF-9BF2-F749F32DAA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857E7E7E-2042-46EF-9BF2-F749F32DAA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857E7E7E-2042-46EF-9BF2-F749F32DAA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857E7E7E-2042-46EF-9BF2-F749F32DAA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857E7E7E-2042-46EF-9BF2-F749F32DAA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E2DE65-434F-48F5-951D-61AB1D529D90}
+	EndGlobalSection
+EndGlobal
